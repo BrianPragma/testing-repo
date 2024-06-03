@@ -8,12 +8,16 @@ How about adding this line to see if it adds in the repository on web!
 
 <br>
 </br>
+<ol>
 <p> Adding a numbered list </p>
 <li> This one is working </li>
 <li> adding this which is definitely working </li>
 <li> and lastly it is working </li>
+</ol>
 
+<ul>
 <p> This one is bulleted list ! </p>
-<ul> The bullet fired from above </ul>
-<ul> A bullet fell on the roof </ul>
-<ul> The bullet was fired by a pea shooter </ul>
+<li> The bullet fired from above </li>
+<li> A bullet fell on the roof </li>
+<li> The bullet was fired by a pea shooter </li>
+</ul>
